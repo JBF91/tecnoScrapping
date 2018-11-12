@@ -1,0 +1,4 @@
+*.pyc
+*.pages
+*.vscode
+*.DS_Store
